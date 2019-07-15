@@ -10,7 +10,11 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^0.1.2
-  google_maps_flutter: ^0.4.0
+  google_maps_flutter: ^0.5.17
+  location: ^1.4.1
+  geolocator: '^2.0.1'
+  floating_search_bar: ^0.2.0
+  floating_bubble: ^0.0.4
 
 dev_dependencies:
   flutter_test:
