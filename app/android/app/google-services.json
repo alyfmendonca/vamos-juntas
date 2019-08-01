@@ -1,0 +1,48 @@
+{
+    "project_info": {
+      "project_number": "566739240631",
+      "firebase_url": "https://vamos-juntas-2ce15.firebaseio.com",
+      "project_id": "vamos-juntas-2ce15",
+      "storage_bucket": "vamos-juntas-2ce15.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:566739240631:android:87a2bbef8f71bf28",
+          "android_client_info": {
+            "package_name": "com.example.app"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "566739240631-e2gva1ntft38npligq9s79dpjq2pk7pi.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.example.app",
+              "certificate_hash": "16a2f469ac572346c84d0f1477f960b183d803e7"
+            }
+          },
+          {
+            "client_id": "566739240631-ciaq5oe7bisc0t0n2dhbb8gm2uo3pks7.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyA4i7XZsUipX6rdY13iyLB6klPt5RefoHI"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "566739240631-ciaq5oe7bisc0t0n2dhbb8gm2uo3pks7.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+}
